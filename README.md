@@ -1,2 +1,4 @@
 # hello-world
-My first code in github
+Hi!!
+
+This is my first code in github. I feel so newbie! :(
